@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+}
+
+header{
+    background: oklch(45.9% 0.187 3.815);
+    color: #fff;
+}
+
+.header-conteiner{
+    max-width: 120rem;
+    margin: 0 auto;
+
+    a{
+        color: #fff;
+    }
+}
